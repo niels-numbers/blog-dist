@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as t,a as s}from"./app.cdc7ec24.js";const m=JSON.parse('{"title":"Nielsen Dev Docs","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),r={name:"index.md"},o=s("",3),n=[o];function d(c,i,_,l,p,h){return t(),a("div",null,n)}const v=e(r,[["render",d]]);export{m as __pageData,v as default};
